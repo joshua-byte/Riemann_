@@ -88,15 +88,6 @@ python prime_reconstruction.py
 
 If you use this code, please cite:
 
-```bibtex
-@misc{sanctus2025entropy,
-  author = {Joshua Jesuraj Sanctus},
-  title = {Entropy-Constrained Structure in the Riemann Zeta Zeros},
-  journal = {Global Philosophy (under review)},
-  year = {2025},
-  url = {https://github.com/YOUR-REPO}
-}
-```
 
 ### Relevant References
 
