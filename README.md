@@ -3,6 +3,7 @@
 This repository contains the code, data processing, and visualizations used in the empirical analysis for the paper:
 
 **"Entropy-Constrained Structure in the Riemann Zeta Zeros"**  
+📄 Submitted to *Global Philosophy (formerly Axiomathes)*  
 ✍️ Author: Joshua Jesuraj Sanctus  
 📧 Contact: jjesuraj37@gmail.com
 
@@ -27,6 +28,9 @@ Using high-precision datasets of Riemann zeros (Odlyzko's tables), the scripts p
 ├── results/ # CSV/txt logs of entropy and reconstruction data
 └── README.md # This file
 
+csharp
+Copy
+Edit
 
 ## 🧪 Requirements
 
@@ -37,7 +41,7 @@ Install required packages with:
 pip install numpy pandas matplotlib scipy sympy
 🚀 How to Run
 Entropy and Perturbation
-
+bash
 python entropy_analysis.py
 Computes spacing entropy across various perturbation strengths (ε)
 
@@ -48,6 +52,7 @@ KDE spacing distributions
 Entropy vs. perturbation level
 
 Prime Reconstruction from Zeros
+bash
 
 python prime_reconstruction.py
 Approximates ψ(x) using the first 10,000 zeros
@@ -66,7 +71,7 @@ figures/entropy_vs_sigma.png – Entropy growth under perturbation
 figures/psi_reconstruction.png – ψ(x) curve and prime reconstruction
 
 📚 Citations
-
+If you use this code or dataset, please cite:
 Also consider citing:
 
 Odlyzko, A.M. (1992). The $10^{20}$-th zero of the Riemann zeta function.
@@ -79,5 +84,6 @@ Edwards, H.M. (1974). Riemann's Zeta Function. Academic Press.
 This repository is shared for academic and research purposes. All original work © Joshua Jesuraj Sanctus.
 
 yaml
+---
 
 Let me know if you want a badge-style header or GitHub Pages version.
