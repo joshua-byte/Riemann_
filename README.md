@@ -3,7 +3,6 @@
 This repository contains the code, data processing, and visualizations used in the empirical analysis for the paper:
 
 **"Entropy-Constrained Structure in the Riemann Zeta Zeros"**  
-📄 Submitted to *Global Philosophy (formerly Axiomathes)*  
 ✍️ Author: Joshua Jesuraj Sanctus  
 📧 Contact: jjesuraj37@gmail.com
 
@@ -27,8 +26,6 @@ Using high-precision datasets of Riemann zeros (Odlyzko's tables), the scripts p
 ├── figures/ # Output plots and visualizations
 ├── results/ # CSV/txt logs of entropy and reconstruction data
 └── README.md # This file
-
-csharp
 
 
 ## 🧪 Requirements
@@ -69,15 +66,7 @@ figures/entropy_vs_sigma.png – Entropy growth under perturbation
 figures/psi_reconstruction.png – ψ(x) curve and prime reconstruction
 
 📚 Citations
-If you use this code or dataset, please cite:
 
-@misc{sanctus2025entropy,
-  author = {Joshua Jesuraj Sanctus},
-  title = {Entropy-Constrained Structure in the Riemann Zeta Zeros},
-  journal = {Global Philosophy (under review)},
-  year = {2025},
-  url = {https://github.com/YOUR-REPO}
-}
 Also consider citing:
 
 Odlyzko, A.M. (1992). The $10^{20}$-th zero of the Riemann zeta function.
