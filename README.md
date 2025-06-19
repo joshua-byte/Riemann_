@@ -29,8 +29,7 @@ Using high-precision datasets of Riemann zeros (Odlyzko's tables), the scripts p
 └── README.md # This file
 
 csharp
-Copy
-Edit
+
 
 ## 🧪 Requirements
 
@@ -41,9 +40,7 @@ Install required packages with:
 pip install numpy pandas matplotlib scipy sympy
 🚀 How to Run
 Entropy and Perturbation
-bash
-Copy
-Edit
+
 python entropy_analysis.py
 Computes spacing entropy across various perturbation strengths (ε)
 
@@ -54,9 +51,7 @@ KDE spacing distributions
 Entropy vs. perturbation level
 
 Prime Reconstruction from Zeros
-bash
-Copy
-Edit
+
 python prime_reconstruction.py
 Approximates ψ(x) using the first 10,000 zeros
 
@@ -76,9 +71,6 @@ figures/psi_reconstruction.png – ψ(x) curve and prime reconstruction
 📚 Citations
 If you use this code or dataset, please cite:
 
-java
-Copy
-Edit
 @misc{sanctus2025entropy,
   author = {Joshua Jesuraj Sanctus},
   title = {Entropy-Constrained Structure in the Riemann Zeta Zeros},
@@ -98,9 +90,5 @@ Edwards, H.M. (1974). Riemann's Zeta Function. Academic Press.
 This repository is shared for academic and research purposes. All original work © Joshua Jesuraj Sanctus.
 
 yaml
-Copy
-Edit
-
----
 
 Let me know if you want a badge-style header or GitHub Pages version.
